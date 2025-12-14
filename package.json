@@ -1,0 +1,21 @@
+{
+  "name": "com.unityforge.jsonparserplaymaker",
+  "displayName": "JSON Parser Actions",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "status": "stable",
+  "description": "Parse JSON to normal variables by Playmaker Actions.",
+  "keywords": ["PlayMaker", "API", "JSON"],
+  "icon": "https://raw.githubusercontent.com/unityforgedev/json-parser-playmaker/refs/heads/main/json-parser-playmaker.png",
+  "links": {
+    "download": "https://github.com/unityforgedev/json-parser-playmaker/releases/download/v1.0.0/json-parser-playmaker-v1.0.0.unitypackage",
+    "release" : "https://github.com/unityforgedev/json-parser-playmaker/releases",
+    "github": "https://github.com/unityforgedev/json-parser-playmaker",
+    "documentation": "https://unityforge.gitbook.io/docs/playmaker/json-parser"
+  },
+    "author": {
+    "name": "Unity Forge",
+    "email": "sabit.hasan.business@gmail.com",
+    "url": "https://github.com/unityforgedev"
+  }
+}
