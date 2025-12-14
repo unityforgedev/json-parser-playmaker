@@ -9,7 +9,7 @@
   "icon": "https://raw.githubusercontent.com/unityforgedev/json-parser-playmaker/refs/heads/main/json-parser-playmaker.png",
   "links": {
     "download": "https://github.com/unityforgedev/json-parser-playmaker/releases/download/v1.0.0/json-parser-playmaker-v1.0.0.unitypackage",
-    "release" : "https://github.com/unityforgedev/json-parser-playmaker/releases",
+    "release" : "https://api.github.com/repos/unityforgedev/json-parser-playmaker/releases",
     "github": "https://github.com/unityforgedev/json-parser-playmaker",
     "documentation": "https://unityforge.gitbook.io/docs/playmaker/json-parser"
   },
